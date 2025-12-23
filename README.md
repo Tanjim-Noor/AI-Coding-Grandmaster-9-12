@@ -10,6 +10,7 @@ This codebase serves as a structured learning environment where students progres
 - **[M_01_Fundamentals_of_HTML](M_01_Fundamentals_of_HTML)**: Introduction to web structure, semantic elements, media, and forms.
 - **[M_02_Fundamentals_of_CSS](M_02_Fundamentals_of_CSS)**: Introduction to styling, background effects, text properties, box model, and positioning.
 - **[M_03_Bootstrap_Framework](M_03_Bootstrap_Framework)**: Introduction to the Bootstrap framework, responsive design, and interactive components.
+- **[M_04_Introduction_to_Javascript](M_04_Introduction_to_Javascript)**: Introduction to JavaScript fundamentals, functions, objects, arrays, and DOM manipulation.
 
 ## 📏 Naming Conventions
 
