@@ -1,14 +1,15 @@
-body{
-  font-family: 'Open Sans',sans-serif;
+body {
+  font-family: "Open Sans", sans-serif;
   background-color: black;
 }
-#container{
+#container {
   width: 1000px;
   height: 550px;
-  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(bgimg.jpg);
+  background-image:
+    linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(bgImg.jpg);
   margin: 20px auto;
 }
-#calculator{
+#calculator {
   width: 320px;
   height: 520px;
   background-color: #eaedef;
@@ -16,16 +17,20 @@ body{
   top: 20px;
   position: relative;
   border-radius: 5px;
-  box-shadow: 4px 8px 0 rgba(0, 0, 0, 0.2), 6px 20px 0 rgba(0, 0, 0, 0.19);
+  box-shadow:
+    4px 8px 0 rgba(0, 0, 0, 0.2),
+    6px 20px 0 rgba(0, 0, 0, 0.19);
 }
-#result{
+#result {
   height: 120px;
 }
-#keyboard{
+#keyboard {
   height: 400px;
 }
 
-.operator, .number, .empty{
+.operator,
+.number,
+.empty {
   width: 50px;
   height: 50px;
   margin: 15px;
@@ -36,30 +41,23 @@ body{
   font-size: 15px;
 }
 
-.number, .empty{
+.number,
+.empty {
   background-color: #eaedef;
 }
 
-.number, .operator{
+.number,
+.operator {
   cursor: pointer;
 }
 
-.operator.active, .number.active{
+.operator.active,
+.number.active {
   font-size: 13px;
 }
 
-.operator:focus, .number:focus, .empty:focus{
-  outline: 0;
-}
-
-.operator{
-  background-color: #eaedef;
-}
-
-.operator.active, .number.active{
-  font-size: 13px;
-}
-
-.operator:focus, .number:focus, .empty:focus{
+.operator:focus,
+.number:focus,
+.empty:focus {
   outline: 0;
 }
