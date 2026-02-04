@@ -14,7 +14,7 @@ This codebase serves as a structured learning environment where students progres
 - **[M_05_Brief_of_JavaScript](M_05_Brief_of_JavaScript)**: Comprehensive overview of JavaScript covering classes, array methods, asynchronous programming, and form validation.
 - **[M_06_Project_on_HTML_CSS_Javascript_and_Bootstrap](M_06_Project_on_HTML_CSS_Javascript_and_Bootstrap)**: Capstone project integrating portfolio, projects showcase, and interactive calculator with HTML, CSS, JavaScript, and Bootstrap.
 - **[M_07_Python_Introduction](M_07_Python_Introduction)**: Introduction to Python — operators, conditionals, loops, functions, and turtle graphics.
-
+- **[M_08_Data_Structures_and_OOP_in_Python](M_08_Data_Structures_and_OOP_in_Python)**: Advanced Python concepts covering data structures (lists, tuples, sets, dictionaries) and object-oriented programming (classes, inheritance, polymorphism, encapsulation).
 
 ## 📏 Naming Conventions
 
