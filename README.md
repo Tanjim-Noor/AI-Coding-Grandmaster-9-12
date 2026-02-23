@@ -15,6 +15,8 @@ This codebase serves as a structured learning environment where students progres
 - **[M_06_Project_on_HTML_CSS_Javascript_and_Bootstrap](M_06_Project_on_HTML_CSS_Javascript_and_Bootstrap)**: Capstone project integrating portfolio, projects showcase, and interactive calculator with HTML, CSS, JavaScript, and Bootstrap.
 - **[M_07_Python_Introduction](M_07_Python_Introduction)**: Introduction to Python — operators, conditionals, loops, functions, and turtle graphics.
 - **[M_08_Data_Structures_and_OOP_in_Python](M_08_Data_Structures_and_OOP_in_Python)**: Advanced Python concepts covering data structures (lists, tuples, sets, dictionaries) and object-oriented programming (classes, inheritance, polymorphism, encapsulation).
+- **[M_09_Specialization_in_Python](M_09_Specialization_in_Python)**: Specialization in Python covering file handling operations (read, write, append, merge) and GUI development using Tkinter, culminating in a Denomination Calculator project.
+- **[M_10_Data_Structures_I](M_10_Data_Structures_I)**: Introduction to time and space complexity, asymptotic notation, algorithm analysis, and mathematical problem-solving including primes, GCD, palindromes, and number conversions.
 
 ## 📏 Naming Conventions
 
