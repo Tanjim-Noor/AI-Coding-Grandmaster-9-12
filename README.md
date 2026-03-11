@@ -17,6 +17,8 @@ This codebase serves as a structured learning environment where students progres
 - **[M_08_Data_Structures_and_OOP_in_Python](M_08_Data_Structures_and_OOP_in_Python)**: Advanced Python concepts covering data structures (lists, tuples, sets, dictionaries) and object-oriented programming (classes, inheritance, polymorphism, encapsulation).
 - **[M_09_Specialization_in_Python](M_09_Specialization_in_Python)**: Specialization in Python covering file handling operations (read, write, append, merge) and GUI development using Tkinter, culminating in a Denomination Calculator project.
 - **[M_10_Data_Structures_I](M_10_Data_Structures_I)**: Introduction to time and space complexity, asymptotic notation, algorithm analysis, and mathematical problem-solving including primes, GCD, palindromes, and number conversions.
+- **[M_11_Data_Structures_II](M_11_Data_Structures_II)**: Advanced data structures covering bitwise operations, bit manipulation, binary arithmetic, and power set generation using Python. *(activities are Python scripts)*
+- **[M_12_SQL_using_Python_I](M_12_SQL_using_Python_I)**: SQL fundamentals through Python — database table creation, query operations, aggregate functions, grouping, filtering, and real-world data manipulation with capstone projects. *(activities saved as .sql scripts)*
 
 ## 📏 Naming Conventions
 
