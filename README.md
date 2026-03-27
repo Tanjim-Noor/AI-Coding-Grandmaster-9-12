@@ -19,6 +19,8 @@ This codebase serves as a structured learning environment where students progres
 - **[M_10_Data_Structures_I](M_10_Data_Structures_I)**: Introduction to time and space complexity, asymptotic notation, algorithm analysis, and mathematical problem-solving including primes, GCD, palindromes, and number conversions.
 - **[M_11_Data_Structures_II](M_11_Data_Structures_II)**: Advanced data structures covering bitwise operations, bit manipulation, binary arithmetic, and power set generation using Python. *(activities are Python scripts)*
 - **[M_12_SQL_using_Python_I](M_12_SQL_using_Python_I)**: SQL fundamentals through Python — database table creation, query operations, aggregate functions, grouping, filtering, and real-world data manipulation with capstone projects. *(activities saved as .sql scripts)*
+- **[M_13_SQL_using_Python_II](M_13_SQL_using_Python_II)**: Advanced SQL topics with SQLite in Python including constraints, joins, subqueries, and query optimization exercises. *(activity placeholders pending)*
+- **[M_14_Welcome_to_Data_Science](M_14_Welcome_to_Data_Science)**: Data science introduction with NumPy, Pandas, Matplotlib, Seaborn, and a capstone project. *(activity placeholders pending)*
 
 ## 📏 Naming Conventions
 
