@@ -21,6 +21,8 @@ This codebase serves as a structured learning environment where students progres
 - **[M_12_SQL_using_Python_I](M_12_SQL_using_Python_I)**: SQL fundamentals through Python — database table creation, query operations, aggregate functions, grouping, filtering, and real-world data manipulation with capstone projects. *(activities saved as .sql scripts)*
 - **[M_13_SQL_using_Python_II](M_13_SQL_using_Python_II)**: Advanced SQL topics with SQLite in Python including constraints, joins, subqueries, and query optimization exercises. *(activity placeholders pending)*
 - **[M_14_Welcome_to_Data_Science](M_14_Welcome_to_Data_Science)**: Data science introduction with NumPy, Pandas, Matplotlib, Seaborn, and a capstone project. *(activity placeholders pending)*
+- **[M_15_Visualization_with_Data_Science](M_15_Visualization_with_Data_Science)**: Visualization in data science with data cleaning, line plots, bar charts, histograms, and an Iris dataset capstone.
+- **[M_16_Statistics_I](M_16_Statistics_I)**: Core statistics foundations covering descriptive statistics, quartiles, categorical analysis, data transformation, and EDA.
 
 ## 📏 Naming Conventions
 
